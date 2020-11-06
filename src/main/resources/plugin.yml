@@ -1,0 +1,5 @@
+name: WarpSystem
+version: 1.0.0
+main: de.nico.warpsystem.WarpSystem
+author: Nico
+api: ["1.0.0"]
