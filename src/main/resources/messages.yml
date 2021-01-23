@@ -1,0 +1,40 @@
+# [0] for placeholder
+# \n for new line
+# & for color
+
+prefix: "&8» §bWarps &8| &7"
+
+# Command
+command-description: "Opens the Warp Menu"
+command-name: "warpui"
+command-usage: "Use /warpui"
+command-alias: "warp"
+
+warp-success: "Successful to warp &t[0] &r&7teleported."
+warp-failed: "Failed to Warp"
+warp-created: "Warp &t[0] &r&7was created."
+warp-deleted: "Warp &t[0] &r&7was deleted."
+warp-exist: "The warp point &t[0] &r&7is already existing"
+warp-not-exist: "The warp point &t[0] &ris not existing"
+warp-name-limit: "The warp name limit is over 15 characters" # 15 is max limit for warp names
+no-warps-existing: "Sorry there are no warp points to delete or to warp please create an Warp point to this."
+
+# Forms
+warp-menu-title: "&5Warp Menu"
+warp-menu-description: "Choose an option"
+warp-menu-create: "Create a Warp point"
+warp-menu-delete: "Delete an Warp point"
+warp-menu-warps: "Teleports you to an Warp point"
+
+# Create Warp Form
+warp-menu-create-placeholder: "Warp Name..."
+warp-menu-create-name: "Insert an Warp Name"
+warp-menu-create-invalid: "Please Provide an Warp name"
+
+# Delete Warp From
+warp-menu-delete-name: "Please Select an Warp that should be deleted."
+warp-menu-delete-invalid: "Please Provide an Warp point to delete"
+
+# Warps Form
+warp-menu-warps-name: "Please Select an Warp point"
+warp-menu-warp-invalid: "Please Provide an Warp to teleport"
