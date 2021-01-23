@@ -2,9 +2,9 @@
 
 This is and Simple Warp plugin.
 
-##Commands:
+## Commands:
 - /warp
 
-##Permission:
+## Permission:
 - warp.create
 - warp.delete
